@@ -112,6 +112,7 @@ As pessoas costumam destacar em você:
 | Assistência remota  | Assistente virtual              | Ofereça serviços de organização de agenda, relatórios e tarefas para pequenos empreendedores via plataformas como Workana ou Upwork. | Alta – pode começar online |
 | Indústria/Qualidade | Auditoria, processos            | Procure empresas locais de manufatura e ofereça suporte em qualidade ou relatórios técnicos. | Baixa – depende de oportunidades específicas |
 ...
+
 **Etapa 3: 
 
 **Bio para Instagram das Habilidades escolhidas:
@@ -148,7 +149,9 @@ Ajudar [nome do cliente] a aumentar sua presença digital e conquistar mais clie
 6. Contato
 [Seu e-mail / WhatsApp]
 
-*** Finalização, questão da Etapa 2:
+
+*** Questão da Etapa 2, Finalização:
+
 # Avaliação das Habilidades Escolhidas
 
 ## 1. Marketing Digital
