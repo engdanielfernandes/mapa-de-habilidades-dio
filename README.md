@@ -1,6 +1,6 @@
 # mapa-de-habilidades-dio
 Projeto Mapa de Habilidade DIO
-Funil das habilidade
+**Etapa 1: Funil das habilidade
 ...markdown
 # Mapa de Habilidades – Funil de Aplicação
 
@@ -112,6 +112,7 @@ As pessoas costumam destacar em você:
 | Assistência remota  | Assistente virtual              | Ofereça serviços de organização de agenda, relatórios e tarefas para pequenos empreendedores via plataformas como Workana ou Upwork. | Alta – pode começar online |
 | Indústria/Qualidade | Auditoria, processos            | Procure empresas locais de manufatura e ofereça suporte em qualidade ou relatórios técnicos. | Baixa – depende de oportunidades específicas |
 ...
+**Etapa 3: 
 
 **Bio para Instagram das Habilidades escolhidas:
 🚀 Marketing Digital com foco em pequenos negócios
@@ -146,4 +147,43 @@ Ajudar [nome do cliente] a aumentar sua presença digital e conquistar mais clie
 
 6. Contato
 [Seu e-mail / WhatsApp]
+
+*** Finalização, questão da Etapa 2:
+# Avaliação das Habilidades Escolhidas
+
+## 1. Marketing Digital
+- **Alguém pagaria por isso?**  
+  Sim, empresas e empreendedores estão constantemente investindo em marketing digital para aumentar vendas e visibilidade.  
+- **Existe demanda por essa habilidade?**  
+  Muito alta. Pequenos negócios, e-commerces e profissionais liberais dependem de anúncios e redes sociais para crescer.  
+- **Posso oferecer isso como serviço ou produto?**  
+  Sim. Você pode oferecer gestão de campanhas, criação de conteúdo, consultoria ou pacotes de anúncios.  
+- **Essa habilidade resolve algum problema comum?**  
+  Sim. Resolve a dificuldade que pequenos negócios têm em atrair clientes e se destacar online.  
+- **Que tipo de pessoa ou empresa se beneficiaria da minha habilidade?**  
+  Pequenos empreendedores, lojas locais, profissionais autônomos, e-commerces.  
+- **Existe algum nicho onde essa habilidade é valorizada?**  
+  Sim. Nichos como moda, alimentação, estética, saúde, educação e serviços locais valorizam muito marketing digital.  
+
+---
+
+## 2. Acessibilidade (LIBRAS)
+- **Alguém pagaria por isso?**  
+  Sim, empresas, escolas e órgãos públicos contratam intérpretes e consultores para inclusão.  
+- **Existe demanda por essa habilidade?**  
+  Alta e crescente, especialmente em ambientes educacionais, corporativos e eventos.  
+- **Posso oferecer isso como serviço ou produto?**  
+  Sim. Serviços de interpretação, treinamentos básicos de LIBRAS, consultoria em acessibilidade e produção de vídeos inclusivos.  
+- **Essa habilidade resolve algum problema comum?**  
+  Sim. Resolve a barreira de comunicação entre surdos e ouvintes, promovendo inclusão e diversidade.  
+- **Que tipo de pessoa ou empresa se beneficiaria da minha habilidade?**  
+  Escolas, universidades, empresas que atendem público diverso, órgãos públicos, eventos corporativos e culturais.  
+- **Existe algum nicho onde essa habilidade é valorizada?**  
+  Sim. Educação inclusiva, atendimento ao cliente, eventos, empresas que querem se posicionar como inclusivas e socialmente responsáveis.  
+
+---
+
+## Síntese
+- **Marketing Digital:** resolve o problema de vendas e visibilidade. Público-alvo: pequenos negócios e e-commerces. Nichos fortes: moda, alimentação, estética, saúde.  
+- **Acessibilidade (LIBRAS):** resolve o problema de comunicação e inclusão. Público-alvo: escolas, empresas, órgãos públicos. Nichos fortes: educação, eventos, atendimento inclusivo.  
 
